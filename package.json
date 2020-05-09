@@ -1,0 +1,24 @@
+{
+  "name": "snapshots-read",
+  "version": "1.0.0",
+  "description": "reads snapshot and list snapshot Ids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acloud-developer/node-snapshots-read.git"
+  },
+  "author": "acloud-developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acloud-developer/node-snapshots-read/issues"
+  },
+  "homepage": "https://github.com/acloud-developer/node-snapshots-read#readme",
+  "dependencies": {
+    "aws-sdk": "^2.673.0",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
